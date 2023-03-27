@@ -12,6 +12,15 @@ html {
     flex-wrap: wrap;
 }
 
+.hero-image {
+    width: 80%;
+    height: auto;
+    max-width: 100%;
+    vertical-align: middle;
+    margin: auto;
+    padding-top: 59px;
+}
+
 .badgeContainer {
     width: 100%;
     text-align: center;
@@ -348,7 +357,7 @@ h6,
 .h6 {
     clear: both;
     color: #202b36;
-    font-family: "PT Serif", serif;
+    font-family: "Roboto", sans-serif;
     font-weight: 700;
 }
 h1,
@@ -539,7 +548,7 @@ pre .h3,
 pre .h4,
 pre .h5,
 pre .h6 {
-    font-family: "Courier 10 Pitch", Courier, monospace;
+    font-family: "Roboto", sans-serif;
 }
 pre,
 code,
